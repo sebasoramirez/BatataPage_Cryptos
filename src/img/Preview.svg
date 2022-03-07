@@ -1,0 +1,18 @@
+<svg width="294" height="154" viewBox="0 0 294 154" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 9C1 4.58172 4.58172 1 9 1H74V39H1V9Z" fill="white" stroke="#E3E3E3"/>
+<rect x="1" y="39" width="73" height="38" fill="white" stroke="#E3E3E3"/>
+<rect x="1" y="77" width="73" height="38" fill="white" stroke="#E3E3E3"/>
+<path d="M1 115H74V153H9C4.58172 153 1 149.418 1 145V115Z" fill="white" stroke="#E3E3E3"/>
+<rect x="147" y="1" width="73" height="38" fill="white" stroke="#E3E3E3"/>
+<rect x="147" y="39" width="73" height="38" fill="white" stroke="#E3E3E3"/>
+<rect x="147" y="77" width="73" height="38" fill="white" stroke="#E3E3E3"/>
+<rect x="147" y="115" width="73" height="38" fill="white" stroke="#E3E3E3"/>
+<rect x="74" y="1" width="73" height="38" fill="white" stroke="#E3E3E3"/>
+<rect x="74" y="39" width="73" height="38" fill="white" stroke="#E3E3E3"/>
+<rect x="74" y="77" width="73" height="38" fill="white" stroke="#E3E3E3"/>
+<rect x="74" y="115" width="73" height="38" fill="white" stroke="#E3E3E3"/>
+<path d="M220 1H285C289.418 1 293 4.58172 293 9V39H220V1Z" fill="white" stroke="#E3E3E3"/>
+<rect x="220" y="39" width="73" height="38" fill="white" stroke="#E3E3E3"/>
+<rect x="220" y="77" width="73" height="38" fill="white" stroke="#E3E3E3"/>
+<path d="M220 115H293V145C293 149.418 289.418 153 285 153H220V115Z" fill="white" stroke="#E3E3E3"/>
+</svg>
